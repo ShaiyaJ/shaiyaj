@@ -4,8 +4,8 @@
 
 <div align="center">
   
-  <a href="https://shaiyaj.github.io/">![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white&style=for-the-badge)</a>
-  <a href="https://nishij.itch.io/">![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white&style=for-the-badge)</a>
+  <a href="https://shaiyaj.github.io/">![GitHub Pages](https://img.shields.io/badge/Website-121013?logo=github&logoColor=white&style=for-the-badge)</a>
+  <a href="https://nishij.itch.io/">![Itch.io](https://img.shields.io/badge/NishiJ-%23FF0B34.svg?logo=Itch.io&logoColor=white&style=for-the-badge)</a>
   
 </div>
 
