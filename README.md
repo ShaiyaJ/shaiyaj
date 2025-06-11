@@ -46,8 +46,14 @@ I also go by "Nishi" or "ShaiyaJ". I'm a hobbyist programmer and student who foc
   ✏️ Working on... ✏️
 </h3>
 
+<img src="./logoseqd.png" alt="seqd logo" width="100" height="100" align="right">
+
 ### [Seqd](https://github.com/ShaiyaJ/seqd)
-A C single-header library for displaying ANSI escape sequences in the terminal
+A C single-header library for displaying ANSI escape sequences in the terminal. Allowing programmers to easy add colors and styles to their console apps and TUIs.
+
+<hr/>
+
+<img src="./logomahtools.png" alt="seqd logo" width="100" height="100" align="right">
 
 ### [MahTools](https://github.com/mahtools)
 Collection of tools relating to Riichi Mahjong (and select other East Asian games), primarily web apps to aid both learning and during play 
