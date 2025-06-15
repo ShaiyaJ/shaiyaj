@@ -4,12 +4,12 @@
 
 <div align="center">
   
-  <a href="https://shaiyaj.github.io/">![GitHub Pages](https://img.shields.io/badge/Website-121013?logo=github&logoColor=white&style=for-the-badge)</a>
-  <a href="https://nishij.itch.io/">![Itch.io](https://img.shields.io/badge/NishiJ-%23FF0B34.svg?logo=Itch.io&logoColor=white&style=for-the-badge)</a>
+  [![GitHub Pages](https://img.shields.io/badge/Website-121013?logo=github&logoColor=white&style=for-the-badge)](https://shaiyaj.github.io/)
+  [![Itch.io](https://img.shields.io/badge/NishiJ-%23FF0B34.svg?logo=Itch.io&logoColor=white&style=for-the-badge)](https://nishij.itch.io/)
   
 </div>
 
-I also go by "Nishi" or "ShaiyaJ". I'm a hobbyist programmer and student who focuses on writing tools and libraries, usually in lower level languages, with the occasional game coming along. 
+I also go by "Nishi" or "ShaiyaJ". I'm a hobbyist programmer and student with a passion for building tools and libraries. I enjoy diving into low-level systems, but I also work with high-level languages to build practical, fun projects.
 
 <h3 align="center">
   ✍️ Writing in... ✍️
@@ -48,12 +48,12 @@ I also go by "Nishi" or "ShaiyaJ". I'm a hobbyist programmer and student who foc
 
 <img src="./logoseqd.png" alt="seqd logo" width="100" height="100" align="right">
 
-### [Seqd](https://github.com/ShaiyaJ/seqd)
-A C single-header library for displaying ANSI escape sequences in the terminal. Allowing programmers to easy add colors and styles to their console apps and TUIs.
+### ⚫ [Seqd](https://github.com/ShaiyaJ/seqd)
+A lightweight, single-header C library for ANSI styling in the terminal. Perfect for adding color and life to your CLI tools or TUI apps with minimal hassle!
 
 <hr/>
 
-<img src="./logomahtools.png" alt="seqd logo" width="100" height="100" align="right">
+<img src="./logomahtools.png" alt="mahtools logo" width="100" height="100" align="right">
 
-### [MahTools](https://github.com/mahtools)
-Collection of tools relating to Riichi Mahjong (and select other East Asian games), primarily web apps to aid both learning and during play 
+### 🟡 [MahTools](https://github.com/mahtools)
+Collection of tools relating to Riichi Mahjong (and select other East Asian games) - primarily web apps to aid players in both learning and during matches! 🀄 
