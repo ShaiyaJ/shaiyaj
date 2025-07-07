@@ -52,9 +52,14 @@ I also go by "Nishi" or "ShaiyaJ". I'm a hobbyist programmer and student with a 
 A lightweight, single-header C library for ANSI styling in the terminal. Perfect for adding color and life to your CLI tools or TUI apps with minimal hassle!
 
 <hr/>
-<!--
 <img src="./logomahtools.png" alt="mahtools logo" width="128" align="right">
 
 ### 🟡 [MahTools](https://github.com/mahtools)
 Collection of tools relating to Riichi Mahjong (and select other East Asian games) - primarily web apps to aid players in both learning and during matches! 🀄 
--->
+
+<hr/>
+
+<img src="" alt="omf logo" width="128" align="right">
+
+### 🟡 [One More Framework](https://github.com/ShaiyaJ/omf)
+A lightweight frontend framework giving you components, local state, component re-rendering - all in under 100 lines of code!
