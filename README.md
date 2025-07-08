@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![GitHub Pages](https://img.shields.io/badge/Website-121013?logo=github&logoColor=white&style=for-the-badge)](https://shaiyaj.github.io/)
+  <!--[![GitHub Pages](https://img.shields.io/badge/Website-121013?logo=github&logoColor=white&style=for-the-badge)](https://shaiyaj.github.io/) -->
   <!--[![Itch.io](https://img.shields.io/badge/NishiJ-%23FF0B34.svg?logo=Itch.io&logoColor=white&style=for-the-badge)](https://nishij.itch.io/)-->
   
 </div>
