@@ -64,3 +64,10 @@ Collection of tools relating to Riichi Mahjong (and select other East Asian game
 
 ### 🟡 [One More Framework](https://github.com/ShaiyaJ/omf)
 A lightweight frontend framework giving you components, local state, component re-rendering - all in under 100 lines of code!
+
+<br />
+<p align="center">・</p>
+<img src="./logopowerbookmark.png" alt="mahtools logo" width="120" align="right">
+
+### 🟡 [Powerbookmark](https://github.com/ShaiyaJ/powerbookmark)
+A browser extension for tag-based bookmark management - featuring a rich filtering system to find *exactly* what you're looking for.
