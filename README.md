@@ -46,21 +46,21 @@ I also go by "Nishi" or "ShaiyaJ". I'm a hobbyist programmer and student with a 
   ✏️ Working on... ✏️
 </h3>
 
-<img src="./logoseqd.png" alt="seqd logo" width="128" align="right">
+<img src="./logoseqd.png" alt="seqd logo" width="120" align="right">
 
 ### ⚫ [Seqd](https://github.com/ShaiyaJ/seqd)
 A lightweight, single-header C library for ANSI styling in the terminal. Perfect for adding color and life to your CLI tools or TUI apps with minimal hassle!
 
 <br />
-<p align="center" style="clear: both">・</p>
-<img src="./logomahtools.png" alt="mahtools logo" width="128" align="right">
+<p align="center">・</p>
+<img src="./logomahtools.png" alt="mahtools logo" width="120" align="right">
 
 ### 🟡 [MahTools](https://github.com/mahtools)
 Collection of tools relating to Riichi Mahjong (and select other East Asian games) - primarily web apps to aid players in both learning and during matches! 🀄 
 
 <br />
-<p align="center" style="clear: both">・</p>
-<img src="./logoomf.png" alt="omf logo" width="128" align="right">
+<p align="center">・</p>
+<img src="./logoomf.png" alt="omf logo" width="120" align="right">
 
 ### 🟡 [One More Framework](https://github.com/ShaiyaJ/omf)
 A lightweight frontend framework giving you components, local state, component re-rendering - all in under 100 lines of code!
