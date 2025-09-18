@@ -34,7 +34,7 @@ I also go by "Nishi" or "ShaiyaJ". I'm a hobbyist programmer and student with a 
 <div align="center">
   
   [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white&style=for-the-badge)](#)
-  [![Common Lisp](https://img.shields.io/badge/Common%20Lisp-000?logo=commonlisp&logoColor=fff&style=for-the-badge)](#)
+  [![Guile](https://img.shields.io/badge/-Guile-%23A42E2B?logo=gnu&logoColor=fff&style=for-the-badge)](#)
   [![6502 Assembly](https://img.shields.io/badge/-6502%20Assembly-000?&logo=assemblyscript&style=for-the-badge)](#)
   [![x86-16 Assembly](https://img.shields.io/badge/-x86%E2%80%9316%20Assembly-000?&logo=assemblyscript&style=for-the-badge)](#)
 
