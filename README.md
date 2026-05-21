@@ -43,10 +43,24 @@ I also go by "Nishi" or "ShaiyaJ". I'm a hobbyist programmer and student with a 
 
 <hr />
 
+<!--
 <h3 align="center">
   ✏️ Working on... ✏️
 </h3>
+-->
 
+<!--
+### ⚫ di... [seq](https://github.com/ShaiyaJ/diseq), [pixel](https://github.com/ShaiyaJ/dipixel)
+Various stb-style libraries for developing terminal applications
+
+### ⚫ [snob](https://github.com/ShaiyaJ/snob) 
+A C build system that allows you to define your build system inside of the source code itself
+
+### 🔵 [exdoc](https://github.com/ShaiyaJ/exdoc)
+A tool that allows you to pipe the output of commands into a word document
+-->
+
+<!--
 <img src="./logoseqd.png" alt="seqd logo" width="120" align="right">
 
 ### ⚫ [Seqd](https://github.com/ShaiyaJ/seqd)
@@ -59,3 +73,4 @@ A lightweight, single-header C library for ANSI styling in the terminal. Perfect
 
 ### 🟡 [One More Framework](https://github.com/ShaiyaJ/omf)
 A lightweight frontend framework giving you components, local state, component re-rendering - all in under 100 lines of code!
+-->
