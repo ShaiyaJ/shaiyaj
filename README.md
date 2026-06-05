@@ -9,7 +9,7 @@
   
 </div>
 
-I also go by "Nishi" or "ShaiyaJ". I'm a hobbyist programmer and student with a passion for building tools and libraries. I enjoy diving into low-level systems, but I also work with high-level languages to build practical, fun projects.
+I also go by "Nishi" or "ShaiyaJ". I'm a hobbyist programmer with a passion for building tools and libraries. I enjoy diving into low-level systems, but I also work with high-level languages to build practical, fun projects.
 
 <h3 align="center">
   ✍️ Writing in... ✍️
