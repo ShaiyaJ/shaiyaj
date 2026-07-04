@@ -3,7 +3,9 @@
 </h1>
 
 <div align="center">
-  [![GitHub Pages](https://img.shields.io/badge/Website-121013?logo=github&logoColor=white&style=for-the-badge)](https://shaiyaj.github.io/)  
+  
+  [![Github Pages](https://img.shields.io/badge/Website-121013?logo=github&logoColor=white&&style=for-the-badge)](https://shaiyaj.github.io/)
+  
 </div>
 
 I also go by "ShaiyaJ". I'm a hobbyist programmer with a passion for building tools and libraries. I enjoy diving into low-level systems, but I also work with high-level languages to build practical, fun projects.
