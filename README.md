@@ -3,13 +3,10 @@
 </h1>
 
 <div align="center">
-  
-  <!--[![GitHub Pages](https://img.shields.io/badge/Website-121013?logo=github&logoColor=white&style=for-the-badge)](https://shaiyaj.github.io/) -->
-  <!--[![Itch.io](https://img.shields.io/badge/NishiJ-%23FF0B34.svg?logo=Itch.io&logoColor=white&style=for-the-badge)](https://nishij.itch.io/)-->
-  
+  [![GitHub Pages](https://img.shields.io/badge/Website-121013?logo=github&logoColor=white&style=for-the-badge)](https://shaiyaj.github.io/)  
 </div>
 
-I also go by "Nishi" or "ShaiyaJ". I'm a hobbyist programmer with a passion for building tools and libraries. I enjoy diving into low-level systems, but I also work with high-level languages to build practical, fun projects.
+I also go by "ShaiyaJ". I'm a hobbyist programmer with a passion for building tools and libraries. I enjoy diving into low-level systems, but I also work with high-level languages to build practical, fun projects.
 
 <h3 align="center">
   ✍️ Writing in... ✍️
@@ -47,9 +44,8 @@ I also go by "Nishi" or "ShaiyaJ". I'm a hobbyist programmer with a passion for 
 <h3 align="center">
   ✏️ Working on... ✏️
 </h3>
--->
 
-<!--
+
 ### ⚫ di... [seq](https://github.com/ShaiyaJ/diseq), [pixel](https://github.com/ShaiyaJ/dipixel)
 Various stb-style libraries for developing terminal applications
 
@@ -58,19 +54,4 @@ A C build system that allows you to define your build system inside of the sourc
 
 ### 🔵 [exdoc](https://github.com/ShaiyaJ/exdoc)
 A tool that allows you to pipe the output of commands into a word document
--->
-
-<!--
-<img src="./logoseqd.png" alt="seqd logo" width="120" align="right">
-
-### ⚫ [Seqd](https://github.com/ShaiyaJ/seqd)
-A lightweight, single-header C library for ANSI styling in the terminal. Perfect for adding color and life to your CLI tools or TUI apps with minimal hassle!
-
-<br />
-
-<p align="center">・</p>
-<img src="./logoomf.png" alt="omf logo" width="120" align="right">
-
-### 🟡 [One More Framework](https://github.com/ShaiyaJ/omf)
-A lightweight frontend framework giving you components, local state, component re-rendering - all in under 100 lines of code!
 -->
